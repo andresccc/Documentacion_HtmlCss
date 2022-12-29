@@ -1,6 +1,6 @@
 ### Comandos
 #
-#### width: 100%; -> Ancho del elemento
+##### width: 100%; -> Ancho del elemento
 #### height: 100%; -> Alto del elemento
 #### border: 2px solid green; -> Borde del elemento
 #### padding: 5px 10px; -> Espacio dentro del borde 
