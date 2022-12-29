@@ -11,6 +11,8 @@
 #### resize: vertical; -> Para redimencionar TEXTAREA, none para que no se pueda 
 #### gap: 10px; -> Espacio entre objetos
 #### align-self: flex-start; -> alinea los elementos flexibles de la línea flexible actual
+#### font-weight: 500; -> Agregar el estilo(100, 200,...) de letra disponible
+#### transition: border 0.2s; -> tiempo de transición para los efectos
 #
 #
 ### Display
@@ -27,6 +29,7 @@
 ### Flex
 #### flex-direction: column; -> Que el eje principal sea la columna
 #### flex-direction: row-reverse; -> Invertir el contenido
+#### flex-grow: 1; -> especifica el factor de crecimiento de un elemento flexible
 #
 #
 ### Background
