@@ -51,4 +51,14 @@
 #
 ### Pseudo-elementos
 ##### ::placeholder {} -> Aplicar estilos al placeholder
+#####
 #
+#
+### 
+##### 
+#####
+#
+#
+#
+
+
